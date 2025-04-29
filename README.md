@@ -8,9 +8,13 @@ It's ideal for beginners to understand object-oriented programming, collections,
 📁 Features
 
 Create a new bank account
+
 Deposit money into an account
+
 Withdraw money with validation
+
 View account details
+
 All operations managed in-memory (no database or file storage)
 
 
